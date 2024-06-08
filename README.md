@@ -2,3 +2,4 @@ A simple star detection algorithm with adjustable parameters. It simply loads th
 
 Play with the threshold parameter to set the number of detected stars. 
 
+![Detected Stars](stars_detected.jpg)
